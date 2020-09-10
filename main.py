@@ -28,7 +28,7 @@ def run():
   second = getGradePoint(gp2)
   credit2 = input("Enter your course 2 credit: ")
   credit2 = float(credit2)
-  print(f"Grade point for course 2 is: {second}.")
+  print(f"Grade point for course 2 is: {second}")
   gp3 = input("Enter your course 3 letter grade: ")
   third = getGradePoint(gp3)
   credit3 = input("Enter your course 3 credit: ")
